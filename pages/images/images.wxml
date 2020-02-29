@@ -1,0 +1,7 @@
+<!--pages/images/images.wxml-->
+<text>pages/images/images.wxml</text>
+<image src="../../img/测试3.jpg"/>
+<image src="/img/测试3.jpg" show-menu-by-longpress/>
+<button bindtap="bindViewTap">选择图片</button>
+
+
